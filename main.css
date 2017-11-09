@@ -1,0 +1,14 @@
+div{
+    height: 100px;
+    padding: 10px 0px 0x 5px;
+    margin-bottom: 5px;
+}
+
+.bandera-amarilla{
+    background-color: #F78617;
+}
+
+.bandera-gris{
+    background-color: #282828;
+    color: #FFF;
+}
