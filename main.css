@@ -1,14 +1,39 @@
-div{
+.div-1{
     height: 100px;
-    padding: 10px 0px 0x 5px;
-    margin-bottom: 5px;
+    padding: 10px 0px 0px 5px;
+    margin-bottom: 10px;
+}
+
+.div-2{
+    width: 200px;
+    height: 100px;
+    padding: 10px 0px 0px 5px;
+    margin-bottom: 10px;
+}
+
+.div-3{
+    width: 200px;
+    height: 100px;
+    padding: 10px 0px 0px 5px;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+.div-4{
+    width: 200px;
+    height: 100px;
+    padding: 10px 0px 0px 5px;
+    margin-bottom: 10px;
+    display: inline;
 }
 
 .bandera-amarilla{
-    background-color: #F78617;
+    background-color: #F7B617;
 }
 
 .bandera-gris{
-    background-color: #282828;
+    background-color: #2B2B2B;
     color: #FFF;
+}
+}
 }
